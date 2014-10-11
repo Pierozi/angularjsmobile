@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.angularjs.hello"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <name>AngularTest</name>
+    <description>
+        I'm in the right place, on the right time.
+    </description>
+
+    <author href="http://plab.io" email="tomasina@plab.io">
+        Pierre Tomasina
+    </author>
+
+    <gap:platform name="android" />
+</widget>
+
